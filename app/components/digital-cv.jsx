@@ -11,9 +11,9 @@ import {
 // --- MOCK DATA ---
 
 const PROFILE = {
-  name: "ALEX_STREAM",
+  name: "Mohammad Amiri",
   role: "SENIOR_FULL_STACK_ENGINEER",
-  avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=AlexStream&backgroundColor=b6e3f4",
+  avatar: "/avatar.jpg", // Place your image in the public folder
   bio: ">> SYSTEM CHECK: OPTIMAL. Architecting scalable digital solutions. Passion for clean code detected. User-centric design protocols active.",
   location: "SAN_FRANCISCO_CA",
   status: "STATUS: ONLINE / OPEN_TO_WORK"
